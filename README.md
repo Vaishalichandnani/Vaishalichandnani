@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaishalichandnani
-- 👀 I’m interested in Python, SQL, PowerBi, Data Analytics, Data Science
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in Python, SQL, PowerBi, Data Analytics
+- 🌱 I’m currently learning New Skills
 - 💞️ I’m looking to collaborate on Here
 - 📫 How to reach me - Email me on vaishalichandnani27@gmail.com 
 
